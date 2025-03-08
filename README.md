@@ -8,8 +8,8 @@
     - [Microsoft Store Windows](https://apps.microsoft.com/detail/9NZVDKPMR9RD?hl=ru&gl=RU&ocid=pdpshare)
     - [Official site Mozilla](https://www.mozilla.org/ru/firefox/new/)
 2. Расширения для брузера:
-    - [Оформление домашней станицы FireFox](https://firefoxcss-store.github.io/)
-    - [Оформление шапки браузера](https://addons.mozilla.org/ru/firefox/themes/?utm_source=firefox-browser&utm_medium=firefox-browser&utm_content=find-more-link-bottom): панели вкладок и инструментов
+    - [Оформление домашней станицы](https://firefoxcss-store.github.io/) браузера
+    - [Оформление шапки](https://addons.mozilla.org/ru/firefox/themes/?utm_source=firefox-browser&utm_medium=firefox-browser&utm_content=find-more-link-bottom) браузера: панели вкладок и инструментов
     - [Дополнительные пакеты языков для брузера](https://addons.mozilla.org/ru/firefox/language-tools/)
     - [I Still Don't Care About Cookies](https://addons.mozilla.org/ru/firefox/addon/istilldontcareaboutcookies/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) — это расширение для браузеров, которое автоматически скрывает уведомления о cookie на веб-сайтах, позволяя пользователям просматривать контент без лишних отвлекающих факторов, минимизирует раздражающие всплывающие окна и сохраняет при этом конфиденциальность.
     - [I Don't Care About Cookies](https://addons.mozilla.org/ru/firefox/addon/i-dont-care-about-cookies/) — это расширение для браузеров, которое автоматически скрывает уведомления о cookie на веб-сайтах, упрощая просмотр контента. Оно помогает пользователям избежать постоянного закрытия или согласия с этими уведомлениями.
