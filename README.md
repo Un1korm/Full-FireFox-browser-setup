@@ -10,7 +10,7 @@
 2. Расширения для брузера:
     - [Оформление домашней станицы](https://firefoxcss-store.github.io/) браузера
     - [Оформление шапки](https://addons.mozilla.org/ru/firefox/themes/?utm_source=firefox-browser&utm_medium=firefox-browser&utm_content=find-more-link-bottom) браузера: панели вкладок и инструментов
-    - [Дополнительные пакеты языков для брузера](https://addons.mozilla.org/ru/firefox/language-tools/)
+    - [Дополнительные пакеты языков](https://addons.mozilla.org/ru/firefox/language-tools/) браузера
     - [I Still Don't Care About Cookies](https://addons.mozilla.org/ru/firefox/addon/istilldontcareaboutcookies/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) — это расширение для браузеров автоматически скрывает уведомления о cookie на веб-сайтах, позволяя пользователям просматривать контент без отвлекающих факторов и обеспечивая конфиденциальность.
     - [I Don't Care About Cookies](https://addons.mozilla.org/ru/firefox/addon/i-dont-care-about-cookies/) — это расширение для браузеров автоматически скрывает уведомления о cookie на веб-сайтах, упрощая просмотр контента и помогая пользователям избежать постоянного закрытия или согласия с этими уведомлениями.
     - [Disconnect](https://addons.mozilla.org/en-US/firefox/addon/disconnect/) — это мощное расширение для браузеров, которое блокирует трекеры, используемые крупными компаниями, такими как Google, Facebook и Twitter, обеспечивая защиту конфиденциальности пользователей.
