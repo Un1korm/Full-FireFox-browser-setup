@@ -41,8 +41,8 @@
     user_pref("extensions.pocket.oAuthConsumerKey", "");
     
     //Отключаем анимацию открытия видео на фуллскин и подсказку "нажмите esc.."
-    Сайты могут отслеживать переход в полноэкранный режим с помощью JavaScript,
-    аналитики или видео-плееров, чтобы собирать данные о поведении пользователя
+    //Сайты могут отслеживать переход в полноэкранный режим с помощью JavaScript,
+    //аналитики или видео-плееров, чтобы собирать данные о поведении пользователя
     user_pref("full-screen-api.transition-duration.enter", "0");
     user_pref("full-screen-api.transition-duration.leave", "0");
     user_pref("full-screen-api.warning.timeout", 0);
