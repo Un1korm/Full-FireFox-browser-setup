@@ -31,7 +31,7 @@
     - [Dark Reader](https://addons.mozilla.org/ru/firefox/addon/darkreader/?utm_content=addons-manager-reviews-link&utm_medium=firefox-browser&utm_source=firefox-browser) — это расширение для браузеров, которое позволяет пользователям включать темный режим на веб-сайтах, улучшая комфорт чтения в условиях низкой освещенности.
     - [URL Shortener & QR Code - iShortener](https://addons.mozilla.org/ru/firefox/addon/ishortener/?utm_content=addons-manager-reviews-link&utm_medium=firefox-browser&utm_source=firefox-browser) :link: — это расширение для браузеров, которое позволяет пользователям быстро сокращать длинные URL-адреса и генерировать QR-коды для удобного обмена ссылками.
     - [ClearURLs](https://addons.mozilla.org/ru/firefox/addon/clearurls/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) :link: — это расширение для браузеров, которое автоматически удаляет лишние параметры отслеживания из URL-адресов, когда пользователи переходят по ссылкам.
-4. В поисковой строке пишете `about:support` --> `Папка профиля` --> `pref.js`. В конец файла `pref.js` вставляете код, который находится ниже, затем сохраняете и перезапускаете FireFox: 
+4. В адресной\поисковой строке пишете `about:support` (открытие и просмотр полных харатеристик браузера) --> Находите `Папка профиля` --> Нажимаете на кнопку `Открыть папку` --> Находите файл `pref.js`. В конец файла `pref.js` вставляете код, который находится ниже, затем сохраняете и перезапускаете FireFox: 
 ``` javascript
 // Отключаем Pocket
 user_pref("extensions.pocket.api", "");
