@@ -7,6 +7,9 @@
 1. Скачать браузер:
     - [Microsoft Store Windows](https://apps.microsoft.com/detail/9NZVDKPMR9RD?hl=ru&gl=RU&ocid=pdpshare)
     - [Official site Mozilla](https://www.mozilla.org/ru/firefox/new/)
+2. Обзоры браузера:
+    - ["Выбираем лучший браузер"](https://www.youtube.com/watch?v=ZV2TvYNmkYE) Honey Montana
+    - ["Прокачиваем браузер на максимум"](https://www.youtube.com/watch?v=r5w8P15tFw4&t=310s) Honey Montana
 2. Расширения для брузера:
     - [Оформление домашней станицы](https://firefoxcss-store.github.io/) браузера
     - [Оформление шапки](https://addons.mozilla.org/ru/firefox/themes/?utm_source=firefox-browser&utm_medium=firefox-browser&utm_content=find-more-link-bottom) браузера: панели вкладок и инструментов
