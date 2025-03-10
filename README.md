@@ -74,4 +74,5 @@ user_pref("security.ssl.errorReporting.automatic", false);
 user_pref("toolkit.crashreporter.infoURL", "");
 user_pref("network.allow-experiments", false);
 user_pref("dom.ipc.plugins.reportCrashURL", false);
-user_pref("dom.ipc.plugins.flash.subprocess.crashreporter.enabled", false);```
+user_pref("dom.ipc.plugins.flash.subprocess.crashreporter.enabled", false);
+```
