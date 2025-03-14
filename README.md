@@ -7,10 +7,11 @@
 1. Скачать браузер:
     - [Microsoft Store Windows](https://apps.microsoft.com/detail/9NZVDKPMR9RD?hl=ru&gl=RU&ocid=pdpshare)
     - [Official site Mozilla](https://www.mozilla.org/ru/firefox/new/)
-2. Обзоры браузера:
+2. Обзоры браузера (YouTube):
     - ["Выбираем лучший браузер"](https://www.youtube.com/watch?v=ZV2TvYNmkYE) Honey Montana
     - ["Прокачиваем браузер на максимум"](https://www.youtube.com/watch?v=r5w8P15tFw4&t=310s) Honey Montana
 3. Расширения для брузера:
+   ![](photo_instruction/7kUlCSE.png)
     - [I Still Don't Care About Cookies](https://addons.mozilla.org/ru/firefox/addon/istilldontcareaboutcookies/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) :no_bell::x::mag: — это расширение для браузеров автоматически скрывает уведомления о cookie на веб-сайтах, позволяя пользователям просматривать контент без отвлекающих факторов и обеспечивая конфиденциальность.
     - [I Don't Care About Cookies](https://addons.mozilla.org/ru/firefox/addon/i-dont-care-about-cookies/) :no_bell::x::mag: — это расширение для браузеров автоматически скрывает уведомления о cookie на веб-сайтах, упрощая просмотр контента и помогая пользователям избежать постоянного закрытия или согласия с этими уведомлениями.
     - [Disconnect](https://addons.mozilla.org/en-US/firefox/addon/disconnect/) :x::mag: — это мощное расширение для браузеров, которое блокирует трекеры, используемые крупными компаниями, такими как Google, Facebook и Twitter, обеспечивая защиту конфиденциальности пользователей.
@@ -28,11 +29,11 @@
     - [Dark Reader](https://addons.mozilla.org/ru/firefox/addon/darkreader/?utm_content=addons-manager-reviews-link&utm_medium=firefox-browser&utm_source=firefox-browser) — это расширение для браузеров, которое позволяет пользователям включать темный режим на веб-сайтах, улучшая комфорт чтения в условиях низкой освещенности.
     - [URL Shortener & QR Code - iShortener](https://addons.mozilla.org/ru/firefox/addon/ishortener/?utm_content=addons-manager-reviews-link&utm_medium=firefox-browser&utm_source=firefox-browser) :link: — это расширение для браузеров, которое позволяет пользователям быстро сокращать длинные URL-адреса и генерировать QR-коды для удобного обмена ссылками.
     - [ClearURLs](https://addons.mozilla.org/ru/firefox/addon/clearurls/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) :link: — это расширение для браузеров, которое автоматически удаляет лишние параметры отслеживания из URL-адресов, когда пользователи переходят по ссылкам.
-4. Оформление браузера:
+5. Оформление браузера:
     - [Оформление домашней станицы](https://firefoxcss-store.github.io/)
     - [Оформление шапки](https://addons.mozilla.org/ru/firefox/themes/?utm_source=firefox-browser&utm_medium=firefox-browser&utm_content=find-more-link-bottom) браузера: панели вкладок и инструментов
     - [Дополнительные пакеты языков](https://addons.mozilla.org/ru/firefox/language-tools/)
-5. В адресной\поисковой строке пишете `about:support` (открытие и просмотр полных харатеристик браузера) --> Находите `Папка профиля` --> Нажимаете на кнопку `Открыть папку` --> Находите файл `pref.js` --> Открываете файл для редоктирования --> В конец файла `pref.js` вставляете код, который находится ниже --> Сохраняете и перезапускаете FireFox: 
+6. В адресной\поисковой строке пишете `about:support` (открытие и просмотр полных харатеристик браузера) --> Находите `Папка профиля` --> Нажимаете на кнопку `Открыть папку` --> Находите файл `pref.js` --> Открываете файл для редоктирования --> В конец файла `pref.js` вставляете код, который находится ниже --> Сохраняете и перезапускаете FireFox: 
     ``` javascript
     // Отключаем Pocket
     user_pref("extensions.pocket.api", "");
