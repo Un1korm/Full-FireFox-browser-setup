@@ -10,7 +10,7 @@
 2. Обзоры браузера (YouTube):
     - ["Выбираем лучший браузер"](https://www.youtube.com/watch?v=ZV2TvYNmkYE) Honey Montana
     - ["Прокачиваем браузер на максимум"](https://www.youtube.com/watch?v=r5w8P15tFw4&t=310s) Honey Montana
-3. Расширения для брузера:
+3. Расширения для брузера (`Настройки` --> `Расширения и темы`):
    ![](photo_instruction/7kUlCSE.png)
     - [I Still Don't Care About Cookies](https://addons.mozilla.org/ru/firefox/addon/istilldontcareaboutcookies/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) :no_bell::x::mag: — это расширение для браузеров автоматически скрывает уведомления о cookie на веб-сайтах, позволяя пользователям просматривать контент без отвлекающих факторов и обеспечивая конфиденциальность.
     - [I Don't Care About Cookies](https://addons.mozilla.org/ru/firefox/addon/i-dont-care-about-cookies/) :no_bell::x::mag: — это расширение для браузеров автоматически скрывает уведомления о cookie на веб-сайтах, упрощая просмотр контента и помогая пользователям избежать постоянного закрытия или согласия с этими уведомлениями.
