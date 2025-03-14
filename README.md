@@ -4,13 +4,16 @@
 
 ## FireFox (Браузер):
 Это бесплатный веб-браузер с открытым исходным кодом, разработанный компанией Mozilla. Он предлагает пользователям высокую степень конфиденциальности, блокируя трекеры и обеспечивая защиту от вредоносных сайтов. Кроме того, Firefox поддерживает множество расширений, позволяющих настраивать функциональность браузера под индивидуальные потребности.
-1. Скачать браузер:
-    - [Microsoft Store Windows](https://apps.microsoft.com/detail/9NZVDKPMR9RD?hl=ru&gl=RU&ocid=pdpshare)
-    - [Official site Mozilla](https://www.mozilla.org/ru/firefox/new/)
-2. Обзоры браузера (YouTube):
+
+1. Обзоры браузера (YouTube):
     - ["Выбираем лучший браузер"](https://www.youtube.com/watch?v=ZV2TvYNmkYE) Honey Montana
     - ["Прокачиваем браузер на максимум"](https://www.youtube.com/watch?v=r5w8P15tFw4&t=310s) Honey Montana
-3. Расширения для брузера (`Настройки` --> `Расширения и темы` --> `Расширения`):
+2. Скачать браузер:
+    - [Microsoft Store Windows](https://apps.microsoft.com/detail/9NZVDKPMR9RD?hl=ru&gl=RU&ocid=pdpshare)
+    - [Official site Mozilla](https://www.mozilla.org/ru/firefox/new/)
+3. Выбираем поисковую систему. DuckDuckGo — это поисковик, который обеспечивает анонимность пользователей, не отслеживает их действия и не показывает рекламу, предлагая чистые и непредвзятые результаты поиска (`Настройки` --> `Поиск` --> `Поисковая система по умолчанию`):
+      ![](photo_instruction/TmHyfje.png)
+4. Расширения для брузера (`Настройки` --> `Расширения и темы` --> `Расширения`):
    ![](photo_instruction/NXuZPrl.png)
     - [I Still Don't Care About Cookies](https://addons.mozilla.org/ru/firefox/addon/istilldontcareaboutcookies/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) :no_bell::x::mag: — это расширение для браузеров автоматически скрывает уведомления о cookie на веб-сайтах, позволяя пользователям просматривать контент без отвлекающих факторов и обеспечивая конфиденциальность.
     - [I Don't Care About Cookies](https://addons.mozilla.org/ru/firefox/addon/i-dont-care-about-cookies/) :no_bell::x::mag: — это расширение для браузеров автоматически скрывает уведомления о cookie на веб-сайтах, упрощая просмотр контента и помогая пользователям избежать постоянного закрытия или согласия с этими уведомлениями.
@@ -34,7 +37,7 @@
     - [Оформление домашней станицы](https://firefoxcss-store.github.io/)
     - [Оформление шапки](https://addons.mozilla.org/ru/firefox/themes/?utm_source=firefox-browser&utm_medium=firefox-browser&utm_content=find-more-link-bottom) браузера: панели вкладок и инструментов
     - [Дополнительные пакеты языков](https://addons.mozilla.org/ru/firefox/language-tools/)
-7. В адресной\поисковой строке пишете `about:support` (открытие и просмотр полных харатеристик браузера) --> Находите `Папка профиля` --> Нажимаете на кнопку `Открыть папку` --> Находите файл `pref.js` --> Открываете файл для редоктирования --> В конец файла `pref.js` вставляете код, который находится ниже --> Сохраняете и перезапускаете FireFox: 
+6. В адресной\поисковой строке пишете `about:support` (открытие и просмотр полных харатеристик браузера) --> Находите `Папка профиля` --> Нажимаете на кнопку `Открыть папку` --> Находите файл `pref.js` --> Открываете файл для редоктирования --> В конец файла `pref.js` вставляете код, который находится ниже --> Сохраняете и перезапускаете FireFox: 
     ``` javascript
     // Отключаем Pocket
     user_pref("extensions.pocket.api", "");
