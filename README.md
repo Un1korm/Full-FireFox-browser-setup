@@ -29,11 +29,12 @@
     - [Dark Reader](https://addons.mozilla.org/ru/firefox/addon/darkreader/?utm_content=addons-manager-reviews-link&utm_medium=firefox-browser&utm_source=firefox-browser) — это расширение для браузеров, которое позволяет пользователям включать темный режим на веб-сайтах, улучшая комфорт чтения в условиях низкой освещенности.
     - [URL Shortener & QR Code - iShortener](https://addons.mozilla.org/ru/firefox/addon/ishortener/?utm_content=addons-manager-reviews-link&utm_medium=firefox-browser&utm_source=firefox-browser) :link: — это расширение для браузеров, которое позволяет пользователям быстро сокращать длинные URL-адреса и генерировать QR-коды для удобного обмена ссылками.
     - [ClearURLs](https://addons.mozilla.org/ru/firefox/addon/clearurls/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) :link: — это расширение для браузеров, которое автоматически удаляет лишние параметры отслеживания из URL-адресов, когда пользователи переходят по ссылкам.
-5. Оформление браузера:
+5. Оформление браузера (`Настройки` --> `Расширения и темы` --> `Темы`):
+   ![](photo_instruction/7kUlCSE.png)
     - [Оформление домашней станицы](https://firefoxcss-store.github.io/)
     - [Оформление шапки](https://addons.mozilla.org/ru/firefox/themes/?utm_source=firefox-browser&utm_medium=firefox-browser&utm_content=find-more-link-bottom) браузера: панели вкладок и инструментов
     - [Дополнительные пакеты языков](https://addons.mozilla.org/ru/firefox/language-tools/)
-6. В адресной\поисковой строке пишете `about:support` (открытие и просмотр полных харатеристик браузера) --> Находите `Папка профиля` --> Нажимаете на кнопку `Открыть папку` --> Находите файл `pref.js` --> Открываете файл для редоктирования --> В конец файла `pref.js` вставляете код, который находится ниже --> Сохраняете и перезапускаете FireFox: 
+7. В адресной\поисковой строке пишете `about:support` (открытие и просмотр полных харатеристик браузера) --> Находите `Папка профиля` --> Нажимаете на кнопку `Открыть папку` --> Находите файл `pref.js` --> Открываете файл для редоктирования --> В конец файла `pref.js` вставляете код, который находится ниже --> Сохраняете и перезапускаете FireFox: 
     ``` javascript
     // Отключаем Pocket
     user_pref("extensions.pocket.api", "");
