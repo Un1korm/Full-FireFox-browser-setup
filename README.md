@@ -91,4 +91,4 @@
     user_pref("dom.ipc.plugins.flash.subprocess.crashreporter.enabled", false);
     ```
 Также эти параметры можно изменить с помощью `about:config` (вводим эту фразу в адресную строку и `нажимаем принять риск и продолжить`), если у вас по какой-то причине не получилось исправить их в файле `pref.js`. Пример:
-    ![]()
+    ![](photo_instruction/XjvXgczCjW.png)
