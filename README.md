@@ -3,14 +3,14 @@
 
 
 ## Подборка видео (на YouTube):
-- ["Uninstall These Programs NOW! Windows 10/11 Improvements"](https://www.youtube.com/watch?v=6KE4lt2KCa8) FISPEKT
+- ["Uninstall These Programs NOW! Windows 10/11 Improvements"](https://www.youtube.com/watch?v=6KE4lt2KCa8) (FISPEKT)
 
 
 ## FireFox (Браузер):
 Это бесплатный веб-браузер с открытым исходным кодом, разработанный компанией Mozilla. Он предлагает пользователям высокую степень конфиденциальности, блокируя трекеры и обеспечивая защиту от вредоносных сайтов. Кроме того, Firefox поддерживает множество расширений, позволяющих настраивать функциональность браузера под индивидуальные потребности.
 1. Обзоры браузера (на YouTube):
-    - ["Выбираем лучший браузер"](https://www.youtube.com/watch?v=ZV2TvYNmkYE) Honey Montana
-    - ["Прокачиваем браузер на максимум"](https://www.youtube.com/watch?v=r5w8P15tFw4&t=310s) Honey Montana
+    - ["Выбираем лучший браузер"](https://www.youtube.com/watch?v=ZV2TvYNmkYE) (Honey Montana)
+    - ["Прокачиваем браузер на максимум"](https://www.youtube.com/watch?v=r5w8P15tFw4&t=310s) (Honey Montana)
 2. Скачиваем браузер:
     - [Microsoft Store Windows](https://apps.microsoft.com/detail/9NZVDKPMR9RD?hl=ru&gl=RU&ocid=pdpshare)
     - [Official site Mozilla](https://www.mozilla.org/ru/firefox/new/)
