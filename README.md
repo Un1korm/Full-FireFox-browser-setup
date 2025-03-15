@@ -3,7 +3,7 @@
 
 
 ## Подборка видео (на YouTube):
-- [Uninstall These Programs NOW! Windows 10/11 Improvements](https://www.youtube.com/watch?v=6KE4lt2KCa8) FISPEKT
+- ["Uninstall These Programs NOW! Windows 10/11 Improvements"](https://www.youtube.com/watch?v=6KE4lt2KCa8) FISPEKT
 
 
 ## FireFox (Браузер):
