@@ -61,7 +61,7 @@
     //аналитики или видео-плееров, чтобы собирать данные о поведении пользователя
     user_pref("full-screen-api.transition-duration.enter", "0");
     user_pref("full-screen-api.transition-duration.leave", "0");
-    user_pref("full-screen-api.warning.timeout", 0);
+    user_pref("full-screen-api.warning.timeout", "0");
     
     //Просим сайты не отслеживать Вас
     user_pref("privacy.trackingprotection.enabled", true);
