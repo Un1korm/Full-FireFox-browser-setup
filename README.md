@@ -36,6 +36,11 @@
    ![](photo_instruction/7kUlCSE.png)
     - [Оформление домашней станицы](https://firefoxcss-store.github.io/)
     - [Оформление шапки](https://addons.mozilla.org/ru/firefox/themes/?utm_source=firefox-browser&utm_medium=firefox-browser&utm_content=find-more-link-bottom) браузера: панели вкладок и инструментов
+        1. [Pixel Art City](https://addons.mozilla.org/ru/firefox/addon/pixel-art-city/) (от Mitchell)
+        2. [Cyberpunk](https://addons.mozilla.org/ru/firefox/addon/cyberpunk-pixels-animated/) (от XI)
+        3. [Peace](https://addons.mozilla.org/ru/firefox/addon/animated-peaceby1041uuu/) (от FinecoFinit)
+        4. [Train In Rain](https://addons.mozilla.org/ru/firefox/addon/animated-traininrainby1041uuu/) (от FinecoFinit)
+        5. [Spirited Away](https://addons.mozilla.org/ru/firefox/addon/spirited-away-animated/) (от Max)
     - [Дополнительные пакеты языков](https://addons.mozilla.org/ru/firefox/language-tools/)
 6. В адресной строке пишете `about:support` (открытие и просмотр полных харатеристик браузера) --> Находите `Папка профиля` --> Нажимаете на кнопку `Открыть папку` --> Находите файл `pref.js` --> Открываете файл для редактирования --> В конец файла `pref.js` вставляете код, который находится ниже --> Сохраняете и перезапускаете FireFox:
    ![](photo_instruction/Q7Oc3uPXOq.png) 
