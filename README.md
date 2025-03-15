@@ -3,9 +3,10 @@
 
 
 ## Подборка видео (на YouTube):
-- ["Uninstall These Programs NOW! Windows 10/11 Improvements"](https://www.youtube.com/watch?v=6KE4lt2KCa8) (FISPEKT)
-- ["Лучшие Программы для прокачки Windows 10/11"](https://www.youtube.com/watch?v=yaUhNYsRyi0) (FISPEKT)
-- ["ДЕЛАЕМ WINDOWS 10/11 КРАСИВЕЕ И УДОБНЕЕ"](https://www.youtube.com/watch?v=kYYqyjjNtfc) (FISPEKT)
+- ["Удали эти программы прямо сейчас! Windows 10/11 улучшение"](https://www.youtube.com/watch?v=6KE4lt2KCa8) (FISPEKT)
+- ["Скачай эти программы прямо сейчас! Windows 10/11 учлучшение"](https://www.youtube.com/watch?v=yaUhNYsRyi0) (FISPEKT)
+- ["Делаем Windows 10/11 красивее и удобнее"](https://www.youtube.com/watch?v=kYYqyjjNtfc) (FISPEKT)
+- ["Настраиваем qBitTorrent"](https://www.youtube.com/watch?v=34XfuxGRG4w) (IT Explainer)
 
 
 ## FireFox (Браузер):
