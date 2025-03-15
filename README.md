@@ -5,6 +5,7 @@
 ## Подборка видео (на YouTube):
 - ["Uninstall These Programs NOW! Windows 10/11 Improvements"](https://www.youtube.com/watch?v=6KE4lt2KCa8) (FISPEKT)
 - ["Лучшие Программы для прокачки Windows 10/11"](https://www.youtube.com/watch?v=yaUhNYsRyi0) (FISPEKT)
+- ["ДЕЛАЕМ WINDOWS 10/11 КРАСИВЕЕ И УДОБНЕЕ"](https://www.youtube.com/watch?v=kYYqyjjNtfc) (FISPEKT)
 
 
 ## FireFox (Браузер):
